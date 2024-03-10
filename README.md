@@ -33,4 +33,3 @@ This calculator program was created by [Sfiso Ndzobo].
 ## License
 
 This project is unlicensed
-This README provides a brief overview of the calculator application, its features, usage instructions, file structure, how to run it, credits, and licensing information.
